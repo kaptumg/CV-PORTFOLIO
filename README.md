@@ -57,12 +57,14 @@ Helpdesk-focused Remote Technical Virtual Assistant with hands-on experience pro
 
 ###  Sample Projects / Case Studies
 ##  Case Study 1: Helpdesk Support Optimization
-Problem: High volume of repeated user issues. Solution: Created simple troubleshooting guides and FAQs.
-Result: Reduced repeat tickets and improved resolution time.
+**Problem**: High volume of repeated user issues. **Solution**: Created simple troubleshooting guides and FAQs.
+
+ **Result**: Reduced repeat tickets and improved resolution time.
 
 ##  Case study 2: Customer Support for E-commerce
-Tasks: Order tracking, refund processing, customer inquiries.
-Outcome: Improved customer retention and positive feedback.
+**Tasks**: Order tracking, refund processing, customer inquiries.
+
+**Outcome**: Improved customer retention and positive feedback.
 
 ## Certifications & Training
   - Bachelors degreee in Information Technology.
