@@ -1,79 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-  <meta charset="UTF-8">
-  KAPTUM JEPKOECH GLADYS - IT Technical Support Engineer CV Portfolio
-<body>
-  <div class="container">
-    <header>
-      <img src="profile.jpg" alt="Your Name" class="profile-photo">
-      <h1>KAPTUM JEPKOECH GLADYS</h1>
-      <p class="contact">
-        Email: your.kaptumgladys68@gmail.com| LinkedIn: www.linkedin.com/in/kaptum-gladys-196b70b9
-      </p>
-    </header>
-      <h2>summary</h2>
-      <p>
-        Results-driven IT Support Engineer with 4+ years’ experience delivering efficient technical support, network management, and systems maintenance. Skilled in diagnosing and resolving complex hardware, software, and connectivity issues in fast-paced environments. Adept at optimizing IT infrastructure, managing Active Directory and Microsoft 365, and ensuring high service uptime. Passionate about improving user experience through proactive problem-solving and continuous learning.
-      </p>
-      <h2>Experience</h2>
-      <ul>
-          <h1><strong>IT Technical support Engineer@DANKA AFRICA(K)(2024–2025)</strong><br>
-          </ul>
-             <li>
-          Provide first- and second-line technical support to end-users via phone, email, and on-site visits.
-               </i>
-        Install, configure, and maintain desktops, laptops, printers, and enterprise software applications.
-            <li>
-       	Monitor and troubleshoot network connectivity issues (LAN/WAN/Wi-Fi/VPN).
-              <li>
-       perform system updates, backups, and security patching to ensure data protection and compliance.
-                <li>
-       Manage user accounts, passwords, and permissions in Active Directory and Microsoft 365.
-                  <li>
-       Train staff on ICT tools, cybersecurity awareness, and best practices.
-                    <li>
-       Collaborate with suppliers and clients to ensure timely IT service delivery and contract compliance
-          </span>
-          <ul>
- <h1><strong>IT  support @BSMART SOLUTIONS(2019–2024)</strong><br></h1>
-          <span>
-             <li>
-             Delivered Tier 1 & 2 support for 100+ users, maintaining 98% system uptime and exceeding SLA targets.
-                <li>
-	Diagnosed and resolved hardware, software, and network issues in Windows and Microsoft 365 environments.
-                   <li>
-Led user onboarding and training sessions, enhancing staff IT proficiency and reducing repeat incidents.
-                      <li>
-Administered Active Directory and Microsoft 365 environments, managing 150+ user accounts.
-                         <li>
-Configured and maintained routers, switches, and firewalls to optimize network security and performance.
-                            <li>
-Provided remote and on-site support, ensuring timely resolution of critical IT issues.
-                               <li>
-Documented recurring technical problems and implemented process improvements to streamline support workflows.
- </span>
-    <section>
-      <h2>Education</h2>
-      <ul>
-        <li>
-          <strong>BSc Information Technology– Multimedia University (2016)</strong><br>
-          Relevant coursework: Network Administration, Systems Troubleshooting.
-        </li>
-      </ul>
-    </section>
-    <section>
-      <h1>Skills</h1>
-      <ul class="skills">
-        <li>Windows & Linux Support</li>
-        <li>Network Troubleshooting</li>
-        <li>Customer Service</li>
-        <li>Remote Technical Assistance</li>
-        <li>Active Directory</li>
-      </ul>
-    </section>
-    <footer>
-      <p><strong>© Kaptum Gladys 2025</strong></p>
-    </footer>
-  </div>
-</body>
-</html>
+
+
+## Gladys Kaptum  
+**Remote Technical Virtual Assistant | IT Support & Customer Care**  
+
+📍 Kenya (Remote)  
+📧 Email: kaptumgladys68@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/kaptum-gladys-196b70b9
+💼 Upwork/: [link](https://www.upwork.com/freelancers/~01087e44c5c30181fa?mp_source=share)  
+
+---
+
+## Professional Summary
+
+Results-driven Remote Technical Virtual Assistant with hands-on experience in IT support, customer care, and digital operations. Skilled in providing fast, friendly, and effective technical assistance while maintaining excellent customer satisfaction. Adept at troubleshooting hardware/software issues, managing tickets, supporting remote teams, and communicating clearly with global clients.
+
+
+---
+## Core Skills
+
+### Technical Support
+
+- Helpdesk & Ticketing Systems (Zendesk, Freshdesk) 
+- Hardware & Software Troubleshooting  
+- Windows & Basic Linux Support  
+- Network & Connectivity Troubleshooting
+- System Setup & User Account Management
+- Remote Support Tools (AnyDesk, TeamViewer) 
+### Customer Support
+- Email, Live Chat & Social Media Support
+- CRM Tools (HubSpot, Zoho)
+- Order Tracking, Refunds & Escalations
+- SLA & Response Time Management
+- Conflict Resolution & Empathy
+
+### Administrative & VA Skills
+- Calendar & Email Management
+- Data Entry & Documentation
+- Online Research & Reporting
+- File Management (Google Drive, OneDrive)
+
+ ### Tools & Technologies
+  -  Zendesk | Freshdesk | HubSpot
+  -  Google Workspace | Microsoft 365
+  -  Slack | Zoom | Microsoft Teams
+  -  Canva (basic design & documentation)
+
+---
+
+## Work Experience
+
+**Remote Technical Support / Virtual Assistant**  
+*2023 – Present*
+
+- Provided first-line technical support to users via email and live chat.
+-  Diagnosed and resolved common hardware, software, and connectivity issues.
+-  Managed support tickets and ensured timely resolution within SLA.
+-  Assisted customers with account setup, password resets, and system navigation.
+-  Documented recurring issues and solutions to improve internal knowledge base.
+  
+  ## Key Achievements:
+  - Reduced average response time by improving ticket prioritization.
+  - Maintained high customer satisfaction through clear and empathetic communication.
+
+
+###  Sample Projects / Case Studies
+##  Case Study 1: Helpdesk Support Optimization
+Problem: High volume of repeated user issues. Solution: Created simple troubleshooting guides and FAQs.
+Result: Reduced repeat tickets and improved resolution time.
+
+##  Case study 2:Customer Support for E-commerce
+Tasks: Order tracking, refund processing, customer inquiries.
+Outcome: Improved customer retention and positive feedback.
+
+
+## Certifications & Training
+  - Bachelors degreee in Information Technology.
+  - Customer Service & Communication Training
+  - Virtual Assistant Training (Online)
+  - ITIL Foundation (Completed)
+  - Network Security Fundamentals (Completed)
+  - CompTIA A+ (In progress – expected 2025)
+
+## Availability
+- Fully Remote  
+- Flexible with UK, Europe, and Canada time zones  
+- Immediate Start  
+
+---
+
