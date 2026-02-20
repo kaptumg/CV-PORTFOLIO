@@ -72,7 +72,7 @@ Helpdesk-focused Remote Technical Virtual Assistant with hands-on experience pro
   - Virtual Assistant Training (Online)
   - ITIL Foundation (Completed)
   - Network Security Fundamentals (Completed)
-  - CompTIA A+ (In progress – expected 2025)
+  - CompTIA A+ (In progress – expected 2026)
 
 ## Availability
 - Fully Remote  
